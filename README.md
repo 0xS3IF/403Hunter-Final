@@ -2,8 +2,6 @@
 
 ## Repository description
 403HunterFinal is a Python toolkit designed to help authorized security researchers and bug bounty hunters analyze subdomains that return 403 Forbidden responses and attempt legitimate header-based variations to discover accessible endpoints. This project is intended for .
-## Project name
-403HunterFinal
 
 ## Folder structure and purpose
 - src/   : source code (main Python script)
@@ -28,8 +26,6 @@ Run:
 python3 src/bypass403.py -d subdomains.txt -u uas.txt -p proxies.txt -o out --threads 10 --delay-min 1 --delay-max 3
 ```
 
-## Legal notice / تحذير قانوني
-Only use this tool on assets you own or have explicit written authorization to test. Unauthorized testing may be illegal.
 
 ## Suggested future improvements
 - Add Selenium/Playwright fallback for JavaScript protected pages.
