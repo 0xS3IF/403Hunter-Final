@@ -1,11 +1,7 @@
 # 403HunterFinal / 403HunterPro
 
-## Repository description (English)
-403HunterFinal is a Python toolkit designed to help authorized security researchers and bug bounty hunters analyze subdomains that return 403 Forbidden responses and attempt legitimate header-based variations to discover accessible endpoints. This project is intended for authorized testing only.
-
-## وصف المستودع (العربية)
-403HunterFinal هي أداة بايثون لمساعدة باحثي الأمن السيبراني وباحثي Bug Bounty المصرح لهم على فحص النطاقات الفرعية التي تعيد 403 ومحاولة تغييرات في الهيدرز لمعرفة ما إذا كانت هناك مسارات يمكن الوصول إليها. الاستخدام مقتصر على الاختبارات المصرح بها فقط.
-
+## Repository description
+403HunterFinal is a Python toolkit designed to help authorized security researchers and bug bounty hunters analyze subdomains that return 403 Forbidden responses and attempt legitimate header-based variations to discover accessible endpoints. This project is intended for .
 ## Project name
 403HunterFinal
 
